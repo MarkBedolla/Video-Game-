@@ -1,4 +1,5 @@
 # VideoGamesDB - SQL Database for Video Games 2000-2025
+
 **Features**
 1. Database Schema
    - Games: Stores game titles, release years, developers, and associated genre/platform.
